@@ -2,12 +2,10 @@
 
 <p align="center" <p id="description">Product site with database using blade template made with PHP Laravel</p>
 
-<p align="center"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fat4soyy" alt="shields"></p>
-
 <h2>Project Screenshots:</h2>
 
 <p align="center">
-<img src="[https://r.resimlink.com/Pw-AnObJ.png](https://media.discordapp.net/attachments/1249667939561635911/1249667963754254367/image.png?ex=6668237c&is=6666d1fc&hm=75c0a5424e1ada23b66dc82b2d210755eace30e482d65dc9c4e74b2a0c4867d5&=&format=webp&quality=lossless&width=952&height=671)" alt="project-screenshot" width="1080" height="550">
+<img src="https://media.discordapp.net/attachments/1249667939561635911/1249667963754254367/image.png?ex=6668237c&is=6666d1fc&hm=75c0a5424e1ada23b66dc82b2d210755eace30e482d65dc9c4e74b2a0c4867d5&=&format=webp&quality=lossless&width=952&height=671" alt="project-screenshot" width="1080" height="550">
 </p>
 
 <h2>🧐 Features</h2>
